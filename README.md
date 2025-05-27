@@ -2,10 +2,10 @@
 title: AI Deadlines
 emoji: ⚡
 colorFrom: gray
-colorTo: blue
+colorTo: green
 sdk: docker
 pinned: false
-app_port: 8080
+app_port: 7860
 ---
 
 # AI Conference Deadlines
@@ -20,7 +20,7 @@ New data is fetched from https://github.com/ccfddl/ccf-deadlines/tree/main/confe
 
 A CRON job (set up as a [Github action](.github/workflows/update-conferences.yml)) automatically updates the data present at src/data/conferences.yml.
 
-**URL**: https://huggingface.co/spaces/huggingface/ai-deadlines
+**URL**: https://huggingface.co/spaces/anapaulagomes/ai-and-health-deadlines
 
 ## Contribute
 
