@@ -24,17 +24,24 @@ const Index = () => {
   // Category buttons configuration
   const categoryButtons = [
     { id: "machine-learning", label: "Machine Learning" },
-    { id: "lifelong-learning", label: "Lifelong Learning" },
-    { id: "robotics", label: "Robotics" },
     { id: "computer-vision", label: "Computer Vision" },
-    { id: "web-search", label: "Web Search" },
-    { id: "data-mining", label: "Data Mining" },
     { id: "natural-language-processing", label: "Natural Language Processing" },
-    { id: "signal-processing", label: "Signal Processing" },
+    { id: "data-mining", label: "Data Mining" },
+    { id: "web-search", label: "Web Search" },
     { id: "human-computer-interaction", label: "Human Computer Interaction" },
-    { id: "computer-graphics", label: "Computer Graphics" },
-    { id: "mathematics", label: "Mathematics" },
+    { id: "signal-processing", label: "Signal Processing" },
     { id: "reinforcement-learning", label: "Reinforcement Learning" },
+    { id: "bioinformatics", label: "Bioinformatics" },
+    { id: "computational-biology", label: "Computational Biology" },
+    { id: "bioscience", label: "Bioscience" },
+    { id: "user-modeling", label: "User Modeling" },
+    { id: "learning-theory", label: "Learning Theory" },
+    { id: "interactive-systems", label: "Interactive Systems" },
+    { id: "ethics", label: "Ethics" },
+    { id: "fairness", label: "Fairness" },
+    { id: "artificial-intelligence", label: "Artificial Intelligence" },
+    { id: "explainable-ai", label: "Explainable AI" },
+    { id: "intelligent-interfaces", label: "Intelligent Interfaces" }
   ];
 
   const filteredConferences = useMemo(() => {

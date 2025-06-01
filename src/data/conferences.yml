@@ -186,17 +186,17 @@
   id: icml25
   full_name: International Conference on Machine Learning
   link: https://icml.cc/Conferences/2025
-  deadline: '2025-01-30 23:59:59'
+  deadline: '2025-01-01 23:59:59'
   timezone: UTC-12
   date: July 11-19, 2025
   tags:
   - machine-learning
   city: Vancouver
   country: Canada
-  abstract_deadline: '2025-01-23 23:59:59'
+  abstract_deadline: '2025-01-01 23:59:59'
   rankings: 'CCF: A, CORE: A*, THCPL: A'
   venue: Vancouver Convention Center
-  submission_deadline: '2025-01-31 03:59:59'
+  submission_deadline: '2025-01-01 23:59:59'
   timezone_submission: PST
 
 - title: IJCNN
@@ -373,15 +373,15 @@
   year: 2025
   id: ecai25
   full_name: European Conference on Artificial Intelligence
-  link: https://ecai2025.org/deadlines/
-  deadline: '2025-05-06 23:59:59'
+  link: https://ecai2025.org/
+  deadline: '2025-04-20 23:59:59'
   timezone: UTC-12
   date: October 25-30, 2025
   tags:
   - machine-learning
   city: Bologna
   country: Italy
-  abstract_deadline: '2025-04-29 23:59:59'
+  abstract_deadline: '2025-04-20 23:59:59'
   rankings: 'CCF: B, CORE: A, THCPL: N'
   venue: Bologna Congress Center and The Engineering School (University of Bologna)
   rebuttal_period_start: '2025-06-23'
@@ -457,7 +457,7 @@
   id: aaai26
   full_name: AAAI Conference on Artificial Intelligence
   link: https://aaai.org/conference/aaai/aaai-26/
-  deadline: '2025-08-01 23:59:59'
+  deadline: '2025-08-07 23:59:59'
   abstract_deadline: '2025-07-25 23:59:59'
   timezone: UTC-12
   date: January 20 – January 27, 2026
@@ -471,3 +471,212 @@
   venue: Singapore EXPO, Singapore
   hindex: 220
   note: Mandatory abstract deadline on Jul 25, 2025, and supplementary material deadline on Aug 04, 2025. More info <a href='https://aaai.org/conference/aaai/aaai-26/'>here</a>.
+
+- title: FAccT
+  year: 2025
+  id: facct25
+  full_name: ACM Conference on Fairness, Accountability, and Transparency
+  link: https://facctconference.org/
+  deadline: '2025-01-15 23:59:59'
+  timezone: UTC-12
+  tags:
+  - machine-learning
+  - ethics
+  - fairness
+
+- title: ICBBB
+  year: 2025
+  id: icbbb25
+  full_name: International Conference on Bioscience, Biochemistry and Bioinformatics
+  link: https://bbseries.org/
+  deadline: '2025-01-23 23:59:59'
+  timezone: UTC-12
+  tags:
+  - bioinformatics
+  - bioscience
+
+- title: UMAP
+  year: 2025
+  id: umap25
+  full_name: Conference on User Modeling, Adaptation and Personalization
+  link: https://www.um.org/umap2025/
+  deadline: '2025-01-23 23:59:59'
+  timezone: UTC-12
+  tags:
+  - human-computer-interaction
+  - user-modeling
+
+- title: COLT
+  year: 2025
+  id: colt25
+  full_name: Conference on Learning Theory
+  link: https://learningtheory.org/colt2025/
+  deadline: '2025-02-06 23:59:59'
+  timezone: UTC-12
+  tags:
+  - machine-learning
+  - learning-theory
+
+- title: EICS
+  year: 2025
+  id: eics25
+  full_name: ACM SIGCHI Symposium on Engineering Interactive Computing Systems
+  deadline: '2025-02-14 23:59:59'
+  timezone: UTC-12
+  tags:
+  - human-computer-interaction
+  - interactive-systems
+
+- title: ICCB
+  year: 2025
+  id: iccb25
+  full_name: International Conference on Computational Biology
+  deadline: '2025-04-01 23:59:59'
+  timezone: UTC-12
+  tags:
+  - bioinformatics
+  - computational-biology
+
+- title: MuC
+  year: 2025
+  id: muc25
+  full_name: Mensch und Computer Conference
+  link: https://muc2025.mensch-und-computer.de/
+  deadline: '2025-04-01 23:59:59'
+  timezone: UTC-12
+  tags:
+  - human-computer-interaction
+
+- title: OzCHI
+  year: 2025
+  id: ozchi25
+  full_name: Australian Conference on Human-Computer Interaction
+  link: https://www.ozchi.org/2025/
+  deadline: '2025-04-01 23:59:59'
+  timezone: UTC-12
+  tags:
+  - human-computer-interaction
+
+- title: UIST
+  year: 2025
+  id: uist25
+  full_name: ACM Symposium on User Interface Software and Technology
+  deadline: '2025-04-02 23:59:59'
+  timezone: UTC-12
+  tags:
+  - human-computer-interaction
+  - user-interfaces
+
+- title: ISMB/ECCB
+  year: 2025
+  id: ismb25
+  full_name: Intelligent Systems for Molecular Biology / European Conference on Computational Biology
+  deadline: '2025-04-17 23:59:59'
+  timezone: UTC-12
+  tags:
+  - bioinformatics
+  - computational-biology
+
+- title: EPHC
+  year: 2025
+  id: ephc25
+  full_name: European Public Health Conference
+  deadline: '2025-05-01 23:59:59'
+  timezone: UTC-12
+  tags:
+  - public-health
+
+- title: ICMI
+  year: 2025
+  id: icmi25
+  full_name: SIGCHI International Conference on Multimodal Interaction
+  link: https://icmi.acm.org/2024/
+  deadline: '2025-05-01 23:59:59'
+  timezone: UTC-12
+  tags:
+  - human-computer-interaction
+  - multimodal-interaction
+
+- title: AIES
+  year: 2025
+  id: aies25
+  full_name: AAAI/ACM Conference on Ethics and Society
+  deadline: '2025-05-01 23:59:59'
+  timezone: UTC-12
+  tags:
+  - ethics
+  - artificial-intelligence
+
+- title: HC-XAI
+  year: 2025
+  id: hcxai25
+  full_name: ACM CHI HC-XAI Workshop
+  deadline: '2025-09-05 23:59:59'
+  timezone: UTC-12
+  tags:
+  - human-computer-interaction
+  - explainable-ai
+
+- title: ICBCB
+  year: 2026
+  id: icbcb26
+  full_name: International Conference on Bioinformatics and Computational Biology
+  deadline: '2025-09-30 23:59:59'
+  timezone: UTC-12
+  tags:
+  - bioinformatics
+  - computational-biology
+
+- title: IUI
+  year: 2026
+  id: iui26
+  full_name: ACM Conference on Intelligent User Interfaces
+  deadline: '2025-10-01 23:59:59'
+  timezone: UTC-12
+  tags:
+  - human-computer-interaction
+  - intelligent-interfaces
+
+- title: BIOINFORMATICS
+  year: 2026
+  id: bioinformatics26
+  full_name: International Conference on Bioinformatics Models, Methods and Algorithms
+  deadline: '2025-10-02 23:59:59'
+  timezone: UTC-12
+  tags:
+  - bioinformatics
+
+- title: ICIAI
+  year: 2025
+  id: iciai25
+  full_name: International Conference on Innovation in Artificial Intelligence
+  link: https://www.iciai.org/
+  deadline: '2025-10-30 23:59:59'
+  timezone: UTC-12
+  tags:
+  - artificial-intelligence
+
+- title: ICLR
+  year: 2026
+  id: iclr26
+  full_name: International Conference on Learning Representations
+  link: https://iclr.cc/
+  deadline: '2026-09-01 23:59:59'
+  timezone: UTC-12
+  tags:
+  - machine-learning
+  - computer-vision
+  - natural-language-processing
+  - signal-processing
+  rankings: 'CCF: N, CORE: A*, THCPL: A'
+  hindex: 304
+
+- title: KDD
+  year: 2026
+  id: kdd26
+  full_name: ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+  deadline: '2025-08-08 23:59:59'
+  timezone: UTC-12
+  tags:
+  - data-mining
+  - machine-learning
