@@ -680,3 +680,14 @@
   tags:
   - data-mining
   - machine-learning
+
+- title: IEEE ICHI
+  year: 2025
+  id: ichi2025
+  link: https://events.dimes.unical.it/ichi2025/authors/call-for-papers/
+  full_name: 13TH IEEE International Conference on Healthcare Informatics
+  deadline: '2025-01-14 23:59:59'
+  timezone: UTC-12
+  tags:
+  - healthcare-informatics
+  - machine-learning
