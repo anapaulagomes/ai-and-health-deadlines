@@ -691,3 +691,148 @@
   tags:
   - healthcare-informatics
   - machine-learning
+
+- title: VIS
+  year: 2025
+  id: vis25
+  full_name: IEEE Visualization Conference
+  link: https://ieeevis.org/year/2025/info/call-participation/paper-submission-guidelines
+  abstract_deadline: '2025-03-21 23:59:59'
+  deadline: '2025-03-31 23:59:59'
+  timezone: AoE
+  city: Vienna
+  country: Austria
+  venue: Vienna, Austria
+  date: November 2-7, 2025
+  tags:
+    - visualization
+    - computer-graphics
+  note: Abstract deadline March 21, 2025. Full paper deadline March 31, 2025 AoE. More info at https://ieeevis.org/year/2025/info/call-participation/paper-submission-guidelines
+
+- title: JMLR
+  year: 2025
+  id: jmlr25
+  full_name: Journal of Machine Learning Research
+  link: https://jmlr.org/
+  deadline: rolling
+  timezone: N/A
+  city: N/A
+  country: N/A
+  venue: N/A
+  date: N/A
+  tags:
+    - machine-learning
+    - journal
+  note: Rolling submissions, no fixed deadline. Papers can be submitted at any time.
+
+- title: CVPR
+  year: 2025
+  id: cvpr25
+  full_name: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  link: https://cvpr2025.thecvf.com/
+  abstract_deadline: '2024-11-08 23:59:59'
+  deadline: '2024-11-15 23:59:59'
+  timezone: AoE
+  city: Seattle
+  country: USA
+  venue: Seattle Convention Center
+  date: June 16-20, 2025
+  tags:
+    - computer-vision
+  note: Abstract deadline November 8, 2024. Paper deadline November 15, 2024 AoE. More info at https://cvpr2025.thecvf.com/Conferences/2025/SubmissionPolicies
+
+- title: ICCV
+  year: 2025
+  id: iccv25
+  full_name: IEEE/CVF International Conference on Computer Vision
+  link: https://iccv2025.thecvf.com/
+  deadline: TBA
+  timezone: TBA
+  city: TBA
+  country: TBA
+  venue: TBA
+  date: TBA (expected October 2025)
+  tags:
+    - computer-vision
+  note: Deadline not yet announced. Check https://iccv2025.thecvf.com/ for updates.
+
+- title: ECCV
+  year: 2026
+  id: eccv26
+  full_name: European Conference on Computer Vision
+  link: https://eccv2026.org/
+  deadline: TBA
+  timezone: TBA
+  city: TBA
+  country: TBA
+  venue: TBA
+  date: TBA (expected August/September 2026)
+  tags:
+    - computer-vision
+  note: Deadline not yet announced. Check https://eccv2026.org/ for updates.
+
+- title: IJCV
+  year: 2025
+  id: ijcv25
+  full_name: International Journal of Computer Vision
+  link: https://www.springer.com/journal/11263/submission-guidelines
+  deadline: rolling
+  timezone: N/A
+  city: N/A
+  country: N/A
+  venue: N/A
+  date: N/A
+  tags:
+    - computer-vision
+    - journal
+  note: Rolling submissions, no fixed deadline. Papers can be submitted at any time.
+
+- title: PAMI
+  year: 2025
+  id: pami25
+  full_name: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  link: https://www.computer.org/csdl/journal/tp/write-for-us/15087
+  deadline: rolling
+  timezone: N/A
+  city: N/A
+  country: N/A
+  venue: N/A
+  date: N/A
+  tags:
+    - computer-vision
+    - journal
+  note: Rolling submissions, no fixed deadline. Papers can be submitted at any time.
+
+- title: AAMAS
+  year: 2025
+  id: aamas25
+  full_name: International Conference on Autonomous Agents and Multiagent Systems
+  link: https://aamas2025.conference.au.dk/
+  abstract_deadline: '2024-09-27 23:59:59'
+  deadline: '2024-10-04 23:59:59'
+  timezone: AoE
+  city: Aarhus
+  country: Denmark
+  venue: Aarhus University
+  date: May 26-30, 2025
+  tags:
+    - artificial-intelligence
+    - multiagent-systems
+  note: Abstract deadline September 27, 2024. Paper deadline October 4, 2024 AoE. More info at https://aamas2025.conference.au.dk/
+
+- title: TACL
+  year: 2025
+  id: tacl25
+  full_name: Transactions of the Association for Computational Linguistics
+  link: https://transacl.org/index.php/tacl
+  deadline: rolling
+  timezone: N/A
+  city: N/A
+  country: N/A
+  venue: N/A
+  date: N/A
+  tags:
+    - natural-language-processing
+    - journal
+  note: Rolling submissions, no fixed deadline. Papers can be submitted at any time.
+>>>>>>> d8ad666 (Update conferences)
