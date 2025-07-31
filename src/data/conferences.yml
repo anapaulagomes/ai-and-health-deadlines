@@ -820,6 +820,227 @@
     - multiagent-systems
   note: Abstract deadline September 27, 2024. Paper deadline October 4, 2024 AoE. More info at https://aamas2025.conference.au.dk/
 
+- title: RECOMB
+  year: 2026
+  id: recomb26
+  full_name: Research in Computational Molecular Biology
+  link: https://www.recomb.org/
+  deadline: '2025-09-15 23:59:59'
+  timezone: UTC-12
+  city: TBA
+  country: TBA
+  venue: TBA
+  date: TBA (expected April 2026)
+  tags:
+    - bioinformatics
+    - computational-biology
+  note: Deadline estimated based on typical RECOMB schedule. Check https://www.recomb.org/ for official dates.
+
+- title: GCB
+  year: 2025
+  id: gcb25
+  full_name: German Conference on Bioinformatics
+  link: https://gcb2025.de/
+  deadline: '2025-06-15 23:59:59'
+  timezone: UTC-12
+  city: TBA
+  country: Germany
+  venue: TBA
+  date: TBA (expected September 2025)
+  tags:
+    - bioinformatics
+  note: Deadline estimated based on typical GCB schedule. Check https://gcb2025.de/ for official dates.
+
+- title: ISMB
+  year: 2026
+  id: ismb26
+  full_name: Intelligent Systems for Molecular Biology
+  link: https://www.iscb.org/ismb2026
+  deadline: '2025-12-01 23:59:59'
+  timezone: UTC-12
+  city: TBA
+  country: TBA
+  venue: TBA
+  date: TBA (expected July 2026)
+  tags:
+    - bioinformatics
+    - computational-biology
+  note: Deadline estimated based on typical ISMB schedule. Check https://www.iscb.org/ismb2026 for official dates.
+
+- title: ECCB
+  year: 2026
+  id: eccb26
+  full_name: European Conference on Computational Biology
+  link: https://eccb2026.org/
+  deadline: '2025-11-15 23:59:59'
+  timezone: UTC-12
+  city: TBA
+  country: TBA
+  venue: TBA
+  date: TBA (expected September 2026)
+  tags:
+    - bioinformatics
+    - computational-biology
+  note: Deadline estimated based on typical ECCB schedule. Check https://eccb2026.org/ for official dates.
+
+- title: PSB
+  year: 2026
+  id: psb26
+  full_name: Pacific Symposium on Biocomputing
+  link: https://psb.stanford.edu/
+  deadline: '2025-08-15 23:59:59'
+  timezone: UTC-12
+  city: TBA
+  country: TBA
+  venue: TBA
+  date: TBA (expected January 2026)
+  tags:
+    - bioinformatics
+    - computational-biology
+  note: Deadline estimated based on typical PSB schedule. Check https://psb.stanford.edu/ for official dates.
+
+- title: BBCC
+  year: 2026
+  id: bbcc26
+  full_name: Bioinformatics and Computational Biology Conference
+  link: https://bbcc.org/
+  deadline: '2025-10-15 23:59:59'
+  timezone: UTC-12
+  city: TBA
+  country: TBA
+  venue: TBA
+  date: TBA (expected March 2026)
+  tags:
+    - bioinformatics
+    - computational-biology
+  note: Deadline estimated based on typical BBCC schedule. Check https://bbcc.org/ for official dates.
+
+- title: ICCV
+  year: 2025
+  id: iccv25
+  full_name: IEEE/CVF International Conference on Computer Vision
+  link: https://iccv2025.thecvf.com/
+  deadline: '2025-03-15 23:59:59'
+  timezone: AoE
+  city: TBA
+  country: TBA
+  venue: TBA
+  date: TBA (expected October 2025)
+  tags:
+    - computer-vision
+  note: Deadline estimated based on typical ICCV schedule. Check https://iccv2025.thecvf.com/ for official dates.
+
+- title: ECCV
+  year: 2026
+  id: eccv26
+  full_name: European Conference on Computer Vision
+  link: https://eccv2026.org/
+  deadline: '2025-12-01 23:59:59'
+  timezone: UTC-12
+  city: TBA
+  country: TBA
+  venue: TBA
+  date: TBA (expected August/September 2026)
+  tags:
+    - computer-vision
+  note: Deadline estimated based on typical ECCV schedule. Check https://eccv2026.org/ for official dates.
+
+- title: EACL
+  year: 2026
+  id: eacl26
+  full_name: European Chapter of the Association for Computational Linguistics
+  link: https://eacl.org/
+  deadline: '2025-10-15 23:59:59'
+  timezone: UTC-12
+  city: TBA
+  country: TBA
+  venue: TBA
+  date: TBA (expected April 2026)
+  tags:
+    - natural-language-processing
+  note: Deadline estimated based on typical EACL schedule. Check https://eacl.org/ for official dates.
+
+- title: LREC
+  year: 2026
+  id: lrec26
+  full_name: International Conference on Language Resources and Evaluation
+  link: https://lrec2026.lrec-conf.org/
+  deadline: '2025-11-15 23:59:59'
+  timezone: UTC-12
+  city: TBA
+  country: TBA
+  venue: TBA
+  date: TBA (expected May 2026)
+  tags:
+    - natural-language-processing
+    - language-resources
+  note: Deadline estimated based on typical LREC schedule. Check https://lrec2026.lrec-conf.org/ for official dates.
+
+- title: EUROVIS
+  year: 2026
+  id: eurovis26
+  full_name: Eurographics Conference on Visualization
+  link: https://www.eurovis.org/
+  deadline: '2025-12-01 23:59:59'
+  timezone: UTC-12
+  city: TBA
+  country: TBA
+  venue: TBA
+  date: TBA (expected June 2026)
+  tags:
+    - visualization
+    - computer-graphics
+  note: Deadline estimated based on typical EUROVIS schedule. Check https://www.eurovis.org/ for official dates.
+
+- title: Pacific VIS
+  year: 2026
+  id: pacificvis26
+  full_name: IEEE Pacific Visualization Symposium
+  link: https://pacificvis.org/
+  deadline: '2025-11-01 23:59:59'
+  timezone: UTC-12
+  city: TBA
+  country: TBA
+  venue: TBA
+  date: TBA (expected April 2026)
+  tags:
+    - visualization
+    - computer-graphics
+  note: Deadline estimated based on typical Pacific VIS schedule. Check https://pacificvis.org/ for official dates.
+
+- title: ACM SIGGRAPH
+  year: 2026
+  id: siggraph26
+  full_name: Conference for Computer Graphics and Interactive Techniques
+  link: https://s2026.siggraph.org/
+  deadline: '2025-12-15 23:59:59'
+  timezone: UTC-12
+  city: TBA
+  country: TBA
+  venue: TBA
+  date: TBA (expected July/August 2026)
+  tags:
+    - computer-graphics
+    - visualization
+    - human-computer-interaction
+  note: Deadline estimated based on typical SIGGRAPH schedule. Check https://s2026.siggraph.org/ for official dates.
+
+- title: SIGIR
+  year: 2026
+  id: sigir26
+  full_name: Special Interest Group on Information Retrieval
+  link: https://sigir.org/sigir2026/
+  deadline: '2025-11-01 23:59:59'
+  timezone: UTC-12
+  city: TBA
+  country: TBA
+  venue: TBA
+  date: TBA (expected July 2026)
+  tags:
+    - information-retrieval
+    - data-mining
+  note: Deadline estimated based on typical SIGIR schedule. Check https://sigir.org/sigir2026/ for official dates.
+
 - title: TACL
   year: 2025
   id: tacl25
